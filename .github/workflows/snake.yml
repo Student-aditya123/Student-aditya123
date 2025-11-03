@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake Animation (Dark + Neon Blue)
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: Student-aditya123
           outputs: dist/snake-dark-blue.svg
           color_snake: "#00FFFF"
           color_dots: "#1E1E1E,#00FFFF,#00BFFF,#000000"
