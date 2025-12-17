@@ -16,8 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Student-aditya123
-          outputs: |
-            github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
       - name: Commit snake animation to main
         uses: EndBug/add-and-commit@v9
