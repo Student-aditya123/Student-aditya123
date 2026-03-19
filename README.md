@@ -5,7 +5,7 @@
   </a>
 </p> -->
 <p align = "center">
-   Hey there! 👋 I'am Aditya
+  <b> Hey there! 👋 I'am Aditya</b> 
 </p>  
 
 ---
