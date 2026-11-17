@@ -14,9 +14,9 @@
 ### 🌟 About Me
 🎓 I’m a **B.Tech Computer Science Engineering student** passionate about learning, building, and solving real-world problems through technology.
  <br/>
-🤖 Exploring Generative AI, RAG, LLM integrations, and AI-powered SaaS applications.
+🤖 Exploring **Generative AI, RAG, LLM integrations, and AI-powered SaaS applications**.
  <br/>
-☁️ Learning Cloud Computing and hands-on deployment using AWS EC2, Linux, Nginx, and PM2.
+☁️ Learning Cloud Computing and hands-on deployment using **AWS EC2, Linux, Nginx, and PM2**.
  <br/>
 🌱 Currently improving my **Data Structures & Algorithms** and building full-stack projects using **MERN**.  
 💼 Preparing for **internship & SDE roles** at product-based companies.  
